@@ -1,6 +1,7 @@
 ## Hello! 👋
 
 My 9-5: Full stack software engineer
+
 My 5-9: Recharge, cook and gym!
 
 Tech stack: React, TypeScript, Java, Python
