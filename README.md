@@ -6,6 +6,8 @@ My 5-9: Recharge, cook and gym!
 
 Tech stack: React, TypeScript, Java, Python
 
+🔭 I’m currently working on the orderbook project!
+
 <!--
 **yiweichay/yiweichay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
